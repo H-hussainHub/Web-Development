@@ -33,7 +33,7 @@ The DOM approach does not load the XML tree into memory as it iterates through t
 
 Furthermore, looking at XML processing models for example a DOM oriented parser SimpleXML() compared to stream-oriented parser XMLReader(). SimpleXML provides a simple and easily usable toolset to convert XML to an object that can be processed with array iterators and normal property selectors. This is an option when the HTML is valid as XHTML, but it will not work if this is used to parse broken HTML. Additionally, XMLReader is an extension of XML pull parser and pull streaming allows more flexibility when manipulating elements. So the reader acts as a cursor when going forward on the document stream and stopping at each element on the way. Using this is more advantageous as a user can easily move to the next element or go back to the previous element.
 
-reflective:
+## reflective:
 I achieved the learning outcome for this assignment however the xml gave me trouble and the number of lines are incorrect for some of them. Nevertheless, for task 3 I provided the chart visualisation fully with not 1 pollutant shown but all three of them. In order to improve this and add more functionality to the chart I would take the data from 3 or more stations and compare the average against each station to provide which station gives off more pollution. Down below will be images of the two charts.
 
 Line Chart:
@@ -44,6 +44,6 @@ Scatter Chart:
 
 ![Scatterchart](./Scatterchart.jpg)
 
-Finally here is the github link what provides all the codes and the data converted into csv stations then to xml (bear in mind for the charts you will need to run index.php):
+Finally here is the github link which provides all the codes and the data converted into csv stations then to xml (bear in mind for the charts you will need to run index.php):
 
 [https://github.com/H-hussainHub/Web-Development.git]
