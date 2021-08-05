@@ -1,19 +1,3 @@
-A report in Markdown format to include:
-
-A discussion of parsing methods and tools and when to use streaming parsers over DOM parsers for document processing (up to 600 words) (8 marks);
-
-Links to all code and data files for examination and marking (8 marks);
-
-How you might go about refactoring and extending the charting and data visualisation functionality you have implemented.(4 marks)
-
-A reflective discussion with comprensive links to working code / layouts will achieve the highest marks in this section.
-
-This report must also link to all source code created (i.e. *.phps files for line by line inspection and NOT simply executables).
-
-A short discussion of extending the visualisation.
-A short discussion of XML processing models - DOM oriented parsers (e.g. SimpleXML() as compared to stream oriented parsers (e.g. XMLReader()).
-An outline and discussion of the learning outcomes achieved.
-
 # Report
 
 ## Parsing
@@ -62,4 +46,4 @@ Scatter Chart:
 
 Finally here is the github link what provides all the codes and the data converted into csv stations then to xml (bear in mind for the charts you will need to run index.php):
 
-[]
+[https://github.com/H-hussainHub/Web-Development.git]
